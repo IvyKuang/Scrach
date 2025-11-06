@@ -1,5 +1,5 @@
-# Scrach 
-### My scrach game
+# Scratch 
+### My scraTch game
 
-1.  Scrach Dash
+1.  ScraTch Dash
 2.  Chatching Game
